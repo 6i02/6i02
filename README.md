@@ -18,4 +18,4 @@ I'm a dev who loves building cool stuff for web and games! ✨
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Contact Me 📫
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://](https://discord.gg/Uc8tTUApBJ))
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Uc8tTUApBJ)
